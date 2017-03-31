@@ -11,3 +11,6 @@ TFS provides a new type of file, called transparent files, which can be used by 
 
 For more details on TFS, read the [technical paper](https://github.com/plasma-umass/transparentFS/blob/master/TFS.pdf) or the [presentation slides](https://github.com/plasma-umass/transparentFS/blob/master/tfs-fast07.pdf).
 
+-----
+
+TFS authors: [Jim Cipar](http://www.cs.cmu.edu/~jcipar/), [Mark Corner](https://markdcorner.com/), [Emery Berger](https://www.emeryberger.com)
