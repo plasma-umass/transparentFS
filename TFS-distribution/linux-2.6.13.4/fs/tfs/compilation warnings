@@ -1,0 +1,3 @@
+  CC      fs/tfs/acl.o
+fs/tfs/acl.c: In function 'tfs_set_acl':
+fs/tfs/acl.c:221: warning: 'name_index' may be used uninitialized in this function

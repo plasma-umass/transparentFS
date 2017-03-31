@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="17"
+   name=""
+   committed-date="2006-04-24T21:24:21.931130Z"
+   url="svn+ssh://jcipar@prisms.cs.umass.edu/usr/gsl/data3/svn2/jcipar/personal/code/kernels/TFS_2.6.14.7/fs/lpfs2"
+   last-author="jcipar"
+   kind="dir"
+   revision="19"/>
+<entry
+   committed-rev="17"
+   name="inode.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="656db428cca75a0fc8ec76607c7f612f"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="super.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="d1c7cc646bf05ddc2eee6008454d26f2"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="acl.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="856267871b38d2a67c49bb1b05e61b0f"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="xattr_user.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="7c77e087013213e170dff8fdaa0564d2"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name=".ioctl.c.swp"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="87acd46b025db0da1fe1cbf32824a2af"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2006-04-24T21:24:25.000000Z"/>
+<entry
+   committed-rev="17"
+   name="xattr.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="19d3371e66790c2006cfed5e1cb630c1"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="ialloc.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="f16eab8040f6281f21979b17835779f4"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="acl.h"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="760e20ec129a7f3ebcffa11478e27bd8"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="xattr.h"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="8ec39ca0679091a99aa599d27886a70d"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="lpfs.h"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="1ff10b310cba463ad97dd5caee10753d"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="ioctl.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="dcb68953d7a92d51f44e637cd6e9a3b8"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="xattr_trusted.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="e04462517d0c0d283a397b8cd709f8c8"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="bitmap.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="72691145a002046f436eba658387905e"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="dir.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="b85a58eed3934b77aa4db2b4b2db0f35"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="file.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="c51782752e6f33203a569c91507b70a6"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="fsync.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="5eeb30594b6b609992c1ece03d03c0eb"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="symlink.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="a0410b21cb656b1ed5e36f74f06acbcc"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="CHANGES"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="9da451a5a6f9bed9b4e50e238f105c94"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name=".xattr.c.swp"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="a4db4cabd06c6ebb345a8f5bc6ecb9c1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2006-04-24T21:24:25.000000Z"/>
+<entry
+   committed-rev="17"
+   name="xattr_security.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="d46c388fab14c13ea48690b568e0a540"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="namei.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="6fc54e34d17c1bb53a01ca4b7cf3592e"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="balloc.c"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="d00c6be0eedd14a250bbe7a31ad57bd4"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name="Makefile"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="c0827a7f3c8db07d3d0aaa2ed8829a0e"
+   last-author="jcipar"
+   kind="file"/>
+<entry
+   committed-rev="17"
+   name=".xattr.h.swp"
+   text-time="2006-04-24T21:21:57.000000Z"
+   committed-date="2006-04-24T21:24:21.931130Z"
+   checksum="b43b4cb2eb958682ec6df8c86bc89311"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2006-04-24T21:24:25.000000Z"/>
+</wc-entries>

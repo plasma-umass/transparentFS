@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/intl"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="plural-exp.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4b41c3ca05dfe9445743033b5ae7cf6e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="8478cab4d8eb7d22aadf04c107570735"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="explodename.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="1a2e1f5979c27b7efae539d12241d6b1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dcigettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3dfb52c17f587228dcec0a764481e153"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="localcharset.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="54183f6a5f12589a5fa1fa389af46046"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="VERSION"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b33d8d738a94e1c07718ea5e447d6405"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dngettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="350668f5ed2fe118676473e4c1970ae8"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="localealias.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="c9f099bf0702b143a8cdc59007cececa"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="textdomain.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ab99112442f51f89c122ffba737fdcdc"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="bindtextdom.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="17e7af6ece21052e33c873ea852fdd1e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ref-del.sin"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="09f58fbd5f0f934b1b8d5c15d4ca2041"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="intl-compat.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e22356fba08f8109045e67831be7aaa7"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dgettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2e93dffbd619b358093a2cba5ec2c8f4"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="po2tbl.sed"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ba081668521ded2a1c1dc5e0b33a04f4"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dcgettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2a415c3f3fce6aaf2088b30347ac768e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="48111544a4ac5e23d49dbb76ea8f7785"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="622f4a682f6bf9ec849b23d1b7aa28a1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plural.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="22e7f4f792a3aefa5169a4b353c47900"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="localename.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="86b4e05129cf3f0cbcf0d890f20fe316"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="loadinfo.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="eab8ba37c14c9b2ea90351a2fbc80fc9"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ngettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="fb13add81b05a3f7f5dbf9542894f69a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="locale.alias"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="487be754d7813d9e3671107c28a6b372"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e3c3c41df4c378977ae4e4c6383b87c5"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="os2compat.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="a6a787e2fc0bd256aedf32737d62b6a0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="finddomain.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="12ace80bae830c3b92a53169453c1be3"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gettextP.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="677d436719d2aa76c9dda71186168347"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ref-add.sin"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="016a8aca55fa579e9f8da70a11d6ac09"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dcngettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="5f38a54182d81bdc5275321fe11cf258"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="osdep.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="6110b08cb3fc89c95d23f487f2389b64"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="libgnuintl.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e98c0b17c0672236ba84c339831cdb4c"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="os2compat.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="79bf74941bc89200f4e0c5b989d09d1d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="l10nflist.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="41713e5f37ee309c3935b10fdf8f6882"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.charset"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="dba0ccb96ad94c6e62596c2b08357d76"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="loadmsgcat.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="7657751846f3fb13bef1b48aacaf7926"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="libgettext.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="cbb38948ae7c116ea7aa981874709e73"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gettext.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="7cadd50308b483d034d5c7b5b82d6708"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plural.y"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="27aa90e42613dcc1b3fd0f6522875079"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gmo.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2bab8edc6f0537704caf3a05e519a2a2"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plural-exp.c"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0f96f085d8dbdf67697a23f38865ffc1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="eval-plural.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="9307347478294fcda0c5d83a2988290f"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hash-string.h"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="d4b384e1a2a93680884c570927ccfe4e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+</wc-entries>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/tests"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:35.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="10d350160708347ecf4f752832e18852"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:35.000000Z"/>
+<entry
+   name="f_noroot"
+   kind="dir"/>
+<entry
+   name="f_baddir"
+   kind="dir"/>
+<entry
+   name="progs"
+   kind="dir"/>
+<entry
+   name="f_badbblocks"
+   kind="dir"/>
+<entry
+   name="f_imagic"
+   kind="dir"/>
+<entry
+   name="f_recnect_bad"
+   kind="dir"/>
+<entry
+   name="f_badtable"
+   kind="dir"/>
+<entry
+   name="f_bitmaps"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="test_script.in"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="db123b1c09209a989507cd08d224dddf"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="9e77d94791cb055214ee1174e32498f0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="61024969350d35e45ec87b0560de7f1e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   name="f_journal"
+   kind="dir"/>
+<entry
+   name="f_messy_inode"
+   kind="dir"/>
+<entry
+   name="f_big_sparse"
+   kind="dir"/>
+<entry
+   name="f_illbbitmap"
+   kind="dir"/>
+<entry
+   name="f_overfsblks"
+   kind="dir"/>
+<entry
+   name="e_irel_ima"
+   kind="dir"/>
+<entry
+   name="f_end-bitmap"
+   kind="dir"/>
+<entry
+   name="f_filetype"
+   kind="dir"/>
+<entry
+   name="f_lpf"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="04fdbc870fa5a003adcfae816789db9d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   name="f_holedir"
+   kind="dir"/>
+<entry
+   name="f_okgroup"
+   kind="dir"/>
+<entry
+   name="f_ext_journal"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="run_e2fsck"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0db817869c59da79ec3f21843cf863c5"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   name="f_zero_super"
+   kind="dir"/>
+<entry
+   name="f_dupfsblks"
+   kind="dir"/>
+<entry
+   name="f_badorphan"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="test_config"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e303d4b1df654bc735d59e2d21102463"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   name="f_dupdot"
+   kind="dir"/>
+<entry
+   name="f_hurd"
+   kind="dir"/>
+<entry
+   name="defaults"
+   kind="dir"/>
+<entry
+   name="f_miss_blk_bmap"
+   kind="dir"/>
+<entry
+   name="e_brel_bma"
+   kind="dir"/>
+<entry
+   name="f_badinode"
+   kind="dir"/>
+<entry
+   name="f_dupsuper"
+   kind="dir"/>
+<entry
+   name="f_dup2"
+   kind="dir"/>
+<entry
+   name="f_dup3"
+   kind="dir"/>
+<entry
+   name="f_extra_journal"
+   kind="dir"/>
+<entry
+   name="f_reconnect"
+   kind="dir"/>
+<entry
+   name="f_lpffile"
+   kind="dir"/>
+<entry
+   name="e_icount_opt"
+   kind="dir"/>
+<entry
+   name="f_misstable"
+   kind="dir"/>
+<entry
+   name="f_special_ea"
+   kind="dir"/>
+<entry
+   name="f_orphan"
+   kind="dir"/>
+<entry
+   name="f_dup"
+   kind="dir"/>
+<entry
+   name="f_badprimary"
+   kind="dir"/>
+<entry
+   name="f_badroot"
+   kind="dir"/>
+<entry
+   name="f_zero_group"
+   kind="dir"/>
+<entry
+   name="f_baddotdir"
+   kind="dir"/>
+<entry
+   name="f_16384_block"
+   kind="dir"/>
+<entry
+   name="f_illitable"
+   kind="dir"/>
+<entry
+   name="d_loaddump"
+   kind="dir"/>
+<entry
+   name="f_swapfs"
+   kind="dir"/>
+<entry
+   name="f_preen"
+   kind="dir"/>
+<entry
+   name="f_mke2fs2b"
+   kind="dir"/>
+<entry
+   name="f_crashdisk"
+   kind="dir"/>
+<entry
+   name="f_8192_block"
+   kind="dir"/>
+<entry
+   name="f_expand"
+   kind="dir"/>
+<entry
+   name="f_salvage_dir"
+   kind="dir"/>
+<entry
+   name="f_badsymlinks"
+   kind="dir"/>
+<entry
+   name="f_imagic_fs"
+   kind="dir"/>
+<entry
+   name="f_bbfile"
+   kind="dir"/>
+<entry
+   name="f_illibitmap"
+   kind="dir"/>
+<entry
+   name="f_lotsbad"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2004-06-11T16:03:44.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="a289599282e02bd340fc03055464a82a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:44.000000Z"/>
+<entry
+   name="f_dirlink"
+   kind="dir"/>
+<entry
+   name="f_h_normal"
+   kind="dir"/>
+<entry
+   name="f_dup_de"
+   kind="dir"/>
+<entry
+   name="f_h_badroot"
+   kind="dir"/>
+<entry
+   name="f_bbinode"
+   kind="dir"/>
+<entry
+   name="f_bad_local_jnl"
+   kind="dir"/>
+<entry
+   name="f_h_badnode"
+   kind="dir"/>
+<entry
+   name="f_h_reindex"
+   kind="dir"/>
+<entry
+   name="f_miss_journal"
+   kind="dir"/>
+<entry
+   name="e_icount_normal"
+   kind="dir"/>
+</wc-entries>

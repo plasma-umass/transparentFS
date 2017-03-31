@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/tests/f_illbbitmap"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="name"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0400d8ff9e999409585927f02e78768d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="image.gz"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="06547b3a840d6f494f223dd340d7d638"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expect.1"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="c2552657affbd3e32d2dbe723f1dd5fe"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expect.2"
+   text-time="2004-06-11T16:03:37.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="02f362a9515eec2cc3907c7087b91243"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:37.000000Z"/>
+</wc-entries>

@@ -1,0 +1,158 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:637: checking for non-GNU ld
+configure:672: checking if the linker (/usr/bin/ld) is GNU ld
+configure:758: checking host system type
+configure:800: checking for gcc
+configure:913: checking whether the C compiler (cc  ) works
+configure:929: cc -o conftest    conftest.c  1>&5
+configure:955: checking whether the C compiler (cc  ) is a cross-compiler
+configure:960: checking whether we are using GNU C
+configure:988: checking whether cc accepts -g
+configure:1037: checking how to run the C preprocessor
+configure:1118: checking for linux/fs.h
+configure:1641: checking for inttypes.h
+configure:1676: checking for stdint.h
+configure:1711: checking for unsigned long long
+configure:1762: checking for shared library run path origin
+configure:1795: checking whether make sets ${MAKE}
+configure:1833: checking for a BSD compatible install
+configure:1898: checking for ranlib
+configure:1927: checking for strerror in -lcposix
+configure:1969: checking for ANSI C header files
+configure:2073: checking for working const
+configure:2148: checking for inline
+configure:2188: checking for off_t
+configure:2221: checking for size_t
+configure:2256: checking for working alloca.h
+configure:2289: checking for alloca
+configure:2491: checking for unistd.h
+configure:2530: checking for getpagesize
+configure:2583: checking for working mmap
+configure:2755: checking whether we are using the GNU C Library 2.1 or newer
+configure:2793: checking whether integer division by zero raises SIGFPE
+configure:2891: checking for inttypes.h
+configure:2930: checking whether the inttypes.h PRIxNN macros are broken
+configure:3358: checking for msgfmt
+configure:3393: checking for gmsgfmt
+configure:3430: checking for xgettext
+configure:3467: checking for msgmerge
+configure:3530: checking for argz.h
+configure:3530: checking for limits.h
+configure:3530: checking for locale.h
+configure:3530: checking for nl_types.h
+configure:3530: checking for malloc.h
+configure:3530: checking for stddef.h
+configure:3530: checking for stdlib.h
+configure:3530: checking for string.h
+configure:3530: checking for unistd.h
+configure:3530: checking for sys/param.h
+configure:3571: checking for feof_unlocked
+configure:3571: checking for fgets_unlocked
+configure:3571: checking for getc_unlocked
+configure:3571: checking for getcwd
+configure:3571: checking for getegid
+configure:3571: checking for geteuid
+configure:3571: checking for getgid
+configure:3571: checking for getuid
+configure:3571: checking for mempcpy
+configure:3571: checking for munmap
+configure:3571: checking for putenv
+configure:3571: checking for setenv
+configure:3571: checking for setlocale
+configure:3571: checking for stpcpy
+configure:3571: checking for strcasecmp
+configure:3571: checking for strdup
+configure:3571: checking for strtoul
+configure:3571: checking for tsearch
+configure:3571: checking for __argz_count
+configure:3571: checking for __argz_stringify
+configure:3571: checking for __argz_next
+configure:3655: checking for iconv
+configure:3730: checking for iconv declaration
+configure:3779: checking for nl_langinfo and CODESET
+configure:3815: checking for LC_MESSAGES
+configure:3854: checking for bison
+configure:3887: checking version of bison
+configure:3916: checking whether NLS is requested
+configure:3940: checking whether included gettext is requested
+configure:3960: checking for GNU gettext in libc
+configure:4561: checking whether make sets ${MAKE}
+configure:4590: checking for ln
+configure:4624: checking whether ln -s works
+configure:4647: checking for mv
+configure:4683: checking for cp
+configure:4719: checking for rm
+configure:4755: checking for chmod
+configure:4791: checking for awk
+configure:4827: checking for sed
+configure:4863: checking for perl
+configure:4899: checking for ldconfig
+configure:4933: checking build system type
+configure:4959: checking for ar
+configure:5026: checking for ranlib
+configure:5093: checking for strip
+configure:5169: checking for a BSD compatible install
+configure:5265: checking for stdlib.h
+configure:5265: checking for unistd.h
+configure:5265: checking for stdarg.h
+configure:5265: checking for errno.h
+configure:5265: checking for malloc.h
+configure:5265: checking for mntent.h
+configure:5265: checking for paths.h
+configure:5265: checking for dirent.h
+configure:5265: checking for getopt.h
+configure:5265: checking for setjmp.h
+configure:5265: checking for signal.h
+configure:5265: checking for termios.h
+configure:5265: checking for linux/fd.h
+configure:5265: checking for linux/major.h
+configure:5265: checking for sys/disklabel.h
+configure:5265: checking for sys/ioctl.h
+configure:5265: checking for sys/mkdev.h
+configure:5265: checking for sys/mount.h
+configure:5265: checking for sys/sockio.h
+configure:5265: checking for sys/socket.h
+configure:5265: checking for sys/sysmacros.h
+configure:5265: checking for sys/time.h
+configure:5265: checking for sys/stat.h
+configure:5265: checking for sys/types.h
+configure:5265: checking for sys/wait.h
+configure:5265: checking for sys/resource.h
+configure:5265: checking for net/if.h
+configure:5265: checking for netinet/in.h
+configure:5302: checking for vprintf
+configure:5407: checking whether d_reclen declared in dirent
+configure:5439: checking whether ssize_t declared
+configure:5471: checking whether llseek declared in unistd.h
+configure:5503: checking whether lseek64 declared in unistd.h
+configure:5545: checking size of short
+configure:5585: checking size of int
+configure:5625: checking size of long
+configure:5665: checking size of long long
+configure:5713: checking whether byte ordering is bigendian
+configure:5803: checking whether struct stat has a st_flags field
+configure:5865: checking for chflags
+configure:5865: checking for getrusage
+configure:5865: checking for llseek
+configure:5865: checking for lseek64
+configure:5865: checking for open64
+configure:5865: checking for getmntinfo
+configure:5865: checking for strtoull
+configure:5865: checking for strcasecmp
+configure:5865: checking for srandom
+configure:5865: checking for fchown
+configure:5865: checking for mallinfo
+configure:5865: checking for fdatasync
+configure:5865: checking for strnlen
+configure:5865: checking for strptime
+configure:5865: checking for sysconf
+configure:5865: checking for pathconf
+configure:5865: checking for posix_memalign
+configure:5865: checking for memalign
+configure:5865: checking for valloc
+configure:5919: checking for socket in -lsocket
+configure:5961: checking for dlopen in -ldl
+configure:6006: checking for optreset
+configure:6102: checking whether linker accepts -static

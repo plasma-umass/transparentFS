@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/tests/progs"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="test_icount.c"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="77fdf9bf42d97378d57087ce7b1ee619"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_rel.c"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="d1408c8699cb52fd5c28b10dd87ed00a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="5416607d7b334572345dff59bf5adf00"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hold_inode.c"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="1f4cbe0f0abceae593c348ef99395913"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_icount.h"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="93c5ae492fd33293d3587cf5b6affa6f"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4636004765d87f1a9dd996a943a2a229"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_rel.h"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="770f1a7409cbeacc2fded449a7011d19"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   name="test_data"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="random_exercise.c"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="abf62d52b531a7331e214ef26727128a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_icount_cmds.ct"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3e734e16ca83c743e3f670613d14a817"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_rel_cmds.ct"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="06735e9446b81b860937127fbe020901"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="f44e319778e883352e804c5a0c3fd359"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:36.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="5be102bc3094b62d9c496ad5842e5f53"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:36.000000Z"/>
+</wc-entries>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/lib/e2p"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="setversion.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="99edc582521bfd043906e694b076a961"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b274c9c6bc537b1c9aaa6261bafb1640"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fgetflags.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="8d1fe82a97e43252ff1971f649a0c2bb"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mntopts.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="6d4c0da1c261abd53abecb75ccc73277"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pe.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="271f91601b2c57a4da4ad8d90812eaf5"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pf.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2f98ce560799d4ee3e60d43c23438d44"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="uuid.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="99ed4003499abdff6b2494e097c08f7a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="fb3b6f93b84f3fbdc84825ded942d1ee"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fsetversion.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="705e301080badc9d957b34444a62fdfa"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="setflags.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2c81cfedc83977ab85c7093238a271ee"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="iod.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="f9792a8e711c9282acc02f42fc668255"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hashstr.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="cd8db8d4764e83eefefe2dda45282a01"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fsetflags.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="baa847513c55a79749c15712d2360312"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ls.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="9c2e6c98ce1d83b22e868decb5bb79e1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ps.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="1b61fd2c04fdfbf055ab8a07b4684fa3"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="getversion.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="569921a3d4cfdbefd502e5430e949bd0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   name="dll"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="e2p.h"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="85b381a6cb188ea5b394317603c833b9"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fgetversion.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0e34daf39c555d58ddf2c8d428faae03"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="feature.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ad8523b60edf249c10ea46486216cdce"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="getflags.c"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="14d8fa995723469c72f63de6352466ff"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="faa9fb0577e83b0c15472e15dbbd1696"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:51.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="500b5dab6c3a0dba16676d983a0891a9"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:51.000000Z"/>
+</wc-entries>

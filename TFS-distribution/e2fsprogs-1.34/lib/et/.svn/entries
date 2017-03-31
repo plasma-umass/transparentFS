@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/lib/et"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="vfprintf.c"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="67f6649e8c4662014e474fe4f163ac44"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="compile_et.1"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="5baac9aac600a700aae7a4abe209f970"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="6e4532b9c7d6000e9aaf700d4d498645"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="error_table.h"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b536a53449c0acf8938ea13f72d3376d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="com_err.3"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b62d1a190f878c6cb54c57bce303a090"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="a26e7f5dd67295a19230d924b3b00e92"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="et_name.c"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="481fcb09555b3d715adad1f5d01d885d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="et_c.awk"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b546e1444e14e3d220176390fd443e8e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="com_right.c"
+   text-time="2004-06-11T16:03:52.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4bcdc9037be50e498fa3daf07c56007c"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:52.000000Z"/>
+<entry
+   name="test_cases"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="compile_et.sh.in"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="7628e36c8780493a785c5cc39c34e400"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="et_h.awk"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e9d03100b34505e2a8a32d80a99d0ec2"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="com_err.texinfo"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="2620cea3924d1f637779549e0a6dc562"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="internal.h"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="c3b6badcafa45fde17547fc146aa2cf8"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="com_err.c"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="506087b7611a214f5a3c2bf07994fa00"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   name="dll"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="texinfo.tex"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3398c49fddd64a84119c18eb9ace2b3d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="init_et.c"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="29e3712a508e23559afd7676e70e9455"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="com_err.h"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b020ff6105548817433f7df4da1b3804"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="d8c1212f9c2ba3baed333317b31d13b7"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3969d8a5dbac8b935217354ee2fb5b9a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="error_message.c"
+   text-time="2004-06-11T16:03:53.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3ad1bc9a238e37a8ba2a181c56745cf3"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:53.000000Z"/>
+</wc-entries>

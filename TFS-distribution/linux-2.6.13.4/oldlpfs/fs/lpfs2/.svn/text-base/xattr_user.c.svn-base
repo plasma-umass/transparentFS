@@ -1,0 +1,77 @@
+/*
+ * linux/fs/lpfs/xattr_user.c
+ * Handler for extended user attributes.
+ *
+ * Copyright (C) 2001 by Andreas Gruenbacher, <a.gruenbacher@computer.org>
+ */
+
+#include <linux/init.h>
+#include <linux/module.h>
+#include <linux/string.h>
+#include "lpfs.h"
+#include "xattr.h"
+
+#define XATTR_USER_PREFIX "user."
+
+static size_t
+lpfs_xattr_user_list(struct inode *inode, char *list, size_t list_size,
+		     const char *name, size_t name_len)
+{
+	const size_t prefix_len = sizeof(XATTR_USER_PREFIX)-1;
+	const size_t total_len = prefix_len + name_len + 1;
+
+	if (!test_opt(inode->i_sb, XATTR_USER))
+		return 0;
+
+	if (list && total_len <= list_size) {
+		memcpy(list, XATTR_USER_PREFIX, prefix_len);
+		memcpy(list+prefix_len, name, name_len);
+		list[prefix_len + name_len] = '\0';
+	}
+	return total_len;
+}
+
+static int
+lpfs_xattr_user_get(struct inode *inode, const char *name,
+		    void *buffer, size_t size)
+{
+	int error;
+
+	if (strcmp(name, "") == 0)
+		return -EINVAL;
+	if (!test_opt(inode->i_sb, XATTR_USER))
+		return -EOPNOTSUPP;
+	error = permission(inode, MAY_READ, NULL);
+	if (error)
+		return error;
+
+	return lpfs_xattr_get(inode, LPFS_XATTR_INDEX_USER, name, buffer, size);
+}
+
+static int
+lpfs_xattr_user_set(struct inode *inode, const char *name,
+		    const void *value, size_t size, int flags)
+{
+	int error;
+
+	if (strcmp(name, "") == 0)
+		return -EINVAL;
+	if (!test_opt(inode->i_sb, XATTR_USER))
+		return -EOPNOTSUPP;
+	if ( !S_ISREG(inode->i_mode) &&
+	    (!S_ISDIR(inode->i_mode) || inode->i_mode & S_ISVTX))
+		return -EPERM;
+	error = permission(inode, MAY_WRITE, NULL);
+	if (error)
+		return error;
+
+	return lpfs_xattr_set(inode, LPFS_XATTR_INDEX_USER, name,
+			      value, size, flags);
+}
+
+struct xattr_handler lpfs_xattr_user_handler = {
+	.prefix	= XATTR_USER_PREFIX,
+	.list	= lpfs_xattr_user_list,
+	.get	= lpfs_xattr_user_get,
+	.set	= lpfs_xattr_user_set,
+};

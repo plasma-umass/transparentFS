@@ -1,0 +1,216 @@
+Iteration 0
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              2593200    275100   2186368  12% /jcipar/equot/mnt
+Copying tar to cwd0
+
+real	0m27.351s
+user	0m0.110s
+sys	0m3.660s
+Copying tar to cwd1
+
+real	0m27.545s
+user	0m0.100s
+sys	0m4.030s
+Untarring tar in cwd0
+
+real	1m1.508s
+user	0m2.040s
+sys	0m8.710s
+Untarring tar in cwd1
+
+real	1m1.354s
+user	0m1.890s
+sys	0m8.970s
+Reading untarred files in cwd0
+
+real	0m9.911s
+user	0m1.150s
+sys	0m0.900s
+Reading untarred files in cwd1
+
+real	0m4.373s
+user	0m1.160s
+sys	0m0.660s
+Deleting files from cwd0
+
+real	0m4.285s
+user	0m0.410s
+sys	0m1.980s
+Deleting files from cwd1
+
+real	0m3.331s
+user	0m0.250s
+sys	0m2.480s
+Iteration 1
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              2593200    321572   2139896  14% /jcipar/equot/mnt
+Copying tar to cwd0
+
+real	0m30.725s
+user	0m0.140s
+sys	0m3.810s
+Copying tar to cwd1
+
+real	0m30.530s
+user	0m0.080s
+sys	0m3.860s
+Untarring tar in cwd0
+
+real	1m3.690s
+user	0m1.780s
+sys	0m9.410s
+Untarring tar in cwd1
+
+real	1m2.513s
+user	0m1.980s
+sys	0m9.200s
+Reading untarred files in cwd0
+
+real	0m9.941s
+user	0m1.110s
+sys	0m0.720s
+Reading untarred files in cwd1
+
+real	0m4.558s
+user	0m1.020s
+sys	0m0.650s
+Deleting files from cwd0
+
+real	0m4.377s
+user	0m0.320s
+sys	0m2.030s
+Deleting files from cwd1
+
+real	0m3.381s
+user	0m0.280s
+sys	0m2.550s
+Iteration 2
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              2593200    368048   2093420  15% /jcipar/equot/mnt
+Copying tar to cwd0
+
+real	0m31.347s
+user	0m0.060s
+sys	0m3.850s
+Copying tar to cwd1
+
+real	0m31.222s
+user	0m0.050s
+sys	0m3.940s
+Untarring tar in cwd0
+
+real	1m11.014s
+user	0m1.950s
+sys	0m8.920s
+Untarring tar in cwd1
+
+real	1m6.363s
+user	0m1.690s
+sys	0m9.580s
+Reading untarred files in cwd0
+
+real	0m15.237s
+user	0m1.070s
+sys	0m0.640s
+Reading untarred files in cwd1
+
+real	0m4.588s
+user	0m1.020s
+sys	0m0.660s
+Deleting files from cwd0
+
+real	0m6.026s
+user	0m0.300s
+sys	0m2.060s
+Deleting files from cwd1
+
+real	0m3.368s
+user	0m0.370s
+sys	0m2.410s
+Iteration 3
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              2593200    414536   2046932  17% /jcipar/equot/mnt
+Copying tar to cwd0
+
+real	0m32.012s
+user	0m0.100s
+sys	0m3.650s
+Copying tar to cwd1
+
+real	0m31.712s
+user	0m0.070s
+sys	0m4.130s
+Untarring tar in cwd0
+
+real	1m15.084s
+user	0m1.800s
+sys	0m9.510s
+Untarring tar in cwd1
+
+real	1m14.092s
+user	0m2.020s
+sys	0m9.670s
+Reading untarred files in cwd0
+
+real	0m11.866s
+user	0m0.950s
+sys	0m0.850s
+Reading untarred files in cwd1
+
+real	0m4.631s
+user	0m1.070s
+sys	0m0.640s
+Deleting files from cwd0
+
+real	0m5.758s
+user	0m0.270s
+sys	0m2.170s
+Deleting files from cwd1
+
+real	0m3.414s
+user	0m0.270s
+sys	0m2.510s
+Iteration 4
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda3              2593200    461000   2000468  19% /jcipar/equot/mnt
+Copying tar to cwd0
+
+real	0m34.129s
+user	0m0.100s
+sys	0m3.900s
+Copying tar to cwd1
+
+real	0m32.181s
+user	0m0.070s
+sys	0m3.880s
+Untarring tar in cwd0
+
+real	1m15.578s
+user	0m1.870s
+sys	0m9.510s
+Untarring tar in cwd1
+
+real	1m15.714s
+user	0m2.080s
+sys	0m9.660s
+Reading untarred files in cwd0
+
+real	0m11.721s
+user	0m1.170s
+sys	0m0.680s
+Reading untarred files in cwd1
+
+real	0m4.812s
+user	0m1.020s
+sys	0m0.650s
+Deleting files from cwd0
+
+real	0m5.077s
+user	0m0.270s
+sys	0m2.080s
+Deleting files from cwd1
+
+real	0m3.413s
+user	0m0.310s
+sys	0m2.450s
+Done

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="configure"
+   text-time="2004-06-11T16:03:33.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4dbd6f5022e7c0d1f4412007339af77f"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:33.000000Z"/>
+<entry
+   name="debian"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="config.rpath"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4b75fb80e251adc87578da7a899ea4f1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile.in"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ce9128d0c30cb44f926ab2fbd7cb367f"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="MCONFIG"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="5809d72a6d394b3beb8b8bd0ffc8ee41"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.log"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3d441b3d1cd6f70628e739ca7914b03c"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="MCONFIG.in"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="c8bc40903e4674b5ac4487d115c3947d"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.guess"
+   text-time="2004-06-11T16:03:34.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="09f4ebd446077f0a36dc521c869724bc"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:34.000000Z"/>
+<entry
+   name="ext2ed"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="config.sub"
+   text-time="2004-06-11T16:03:35.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="364c581814cddb2a2db3c15abf45a012"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:35.000000Z"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="e2fsprogs.spec"
+   text-time="2004-06-11T16:03:48.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b7d6bf933fc54729e7fad35999b14976"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ABOUT-NLS"
+   text-time="2004-06-11T16:03:48.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e230139e0e73808bd6c3bdccffab0896"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="INSTALL.elfbin"
+   text-time="2004-06-11T16:03:48.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b11175ed591db122771ffaf4820d84ec"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:48.000000Z"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="INSTALL"
+   text-time="2004-06-11T16:03:49.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="8027599fec0bf7f53e410a5caff07813"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:49.000000Z"/>
+<entry
+   name="intl"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="COPYING"
+   text-time="2004-06-11T16:03:57.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0f9664c9acc084da5a3e617418d3d0eb"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2004-06-11T16:03:57.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="dcd68a945b72fcc1d6dcdfb7a045f433"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".cvsignore"
+   text-time="2004-06-11T16:03:57.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="91956ff9d4bce1816b2d96ce0048b2a6"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:57.000000Z"/>
+<entry
+   name="po"
+   kind="dir"/>
+<entry
+   name="debugfs"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="wordwrap.pl"
+   text-time="2004-06-11T16:03:58.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0b9a083cf36f3fa518c265b836ca0b22"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:58.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mkinstalldirs"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="d69600ffc4dd42fc930f4494b93f97ed"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="SHLIBS"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="9355c33cab2a033167e268345046edfa"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="configure.in"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="42b0bbc48f349fed8a9359479dc88903"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ChangeLog"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0ede1f6f7087ee8c8f732a2f405777a0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.status"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="6e2206fdccae994f379c43532994e5b0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="depfix.sed"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="10c0bc5b7ab70d8fa9882a863ff13a5c"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".fix-Changelog"
+   text-time="2004-06-11T16:03:59.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="70ad39df7a951cee44534e043a012aac"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:59.000000Z"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name=".missing-copyright"
+   text-time="2004-06-11T16:04:01.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="680264eeb5948ee495d43a5a762861ba"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:01.000000Z"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2004-06-11T16:04:01.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="b0561d8cc96b5191e7c1d529d5b0759f"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:01.000000Z"/>
+<entry
+   name="contrib"
+   kind="dir"/>
+<entry
+   name="resize"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="e2fsprogs.lsm"
+   text-time="2004-06-11T16:04:01.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="4fbd6974bba4cca92983f7e52c3e0d33"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:01.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".head-Changelog"
+   text-time="2004-06-11T16:04:01.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e2a0ff82938ef878c22c66234719bec1"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:01.000000Z"/>
+<entry
+   name="install-utils"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name=".release-checklist"
+   text-time="2004-06-11T16:04:01.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0ecc270586f6e40bdda8436526dd96b8"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:01.000000Z"/>
+<entry
+   committed-rev="1"
+   name="RELEASE-NOTES"
+   text-time="2004-06-11T16:04:02.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="e6b6cc1215cd8a19a49986efc832342a"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:02.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.cache"
+   text-time="2004-06-11T16:04:02.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="3c485ab4598fc3f35f9840079d963215"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:02.000000Z"/>
+<entry
+   committed-rev="1"
+   name="e2fsprogs.spec.in"
+   text-time="2004-06-11T16:04:02.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="0771c6c683edae466e0cc7a715db56d0"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:02.000000Z"/>
+<entry
+   committed-rev="1"
+   name="INSTALL.dllbin"
+   text-time="2004-06-11T16:04:02.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="27856aca6e2684937d2f68496a286494"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:02.000000Z"/>
+<entry
+   committed-rev="1"
+   name="version.h"
+   text-time="2004-06-11T16:04:02.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ac79824ad9976073aa2f03b159a4da2c"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:02.000000Z"/>
+<entry
+   name="e2fsck"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="aclocal.m4"
+   text-time="2004-06-11T16:04:03.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="f4a1cd299e337c467f2bb03ddc8d5d02"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:03.000000Z"/>
+<entry
+   committed-rev="1"
+   name="install-sh"
+   text-time="2004-06-11T16:04:03.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="9b9a3382dc6798b6cc9db374e5ca6c9e"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:04:03.000000Z"/>
+</wc-entries>

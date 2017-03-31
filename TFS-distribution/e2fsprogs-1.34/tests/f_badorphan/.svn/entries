@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2004-06-09T15:38:55.592820Z"
+   url="svn+ssh://gslacks.cs.umass.edu/usr/gsl/data1/svn-repos/LPFiles/ext2/e2fsprogs-1.34/tests/f_badorphan"
+   last-author="jcipar"
+   kind="dir"
+   uuid="74e884a5-6edc-0310-b191-c73cce5ef55f"
+   revision="1"/>
+<entry
+   committed-rev="1"
+   name="name"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="934a8804715897f6c2072ddab075bc67"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   committed-rev="1"
+   name="image.gz"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="29cb2e6aafb7cbdf6e4d64494143d6bb"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expect.1"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="a8887a159e0a370e91a0ad74b8a0ddf9"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expect.2"
+   text-time="2004-06-11T16:03:38.000000Z"
+   committed-date="2004-06-09T15:38:55.592820Z"
+   checksum="ed6d2e85c3a2a7de1f35b96fe146d005"
+   last-author="jcipar"
+   kind="file"
+   prop-time="2004-06-11T16:03:38.000000Z"/>
+</wc-entries>
